@@ -4,7 +4,6 @@ import time
 
 driver = webdriver.Firefox()
 driver.get("http://www.python.org")
-((JavascriptExecutor) webDriver).executeScript("window.focus();");
 assert "Python" in driver.title
 elem = driver.find_element_by_name("q")
 elem.clear()
