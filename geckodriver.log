@@ -1,9 +1,66 @@
-1543343841927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.edtLLbf6HIS2"
+1543760989952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XGf3MU6BBdZ4"
 
-(firefox:24673): Gtk-WARNING **: 19:37:22.514: Theme parsing error: <data>:1:34: Expected ')' in color definition
+(firefox:6339): Gtk-WARNING **: 15:29:50.558: Theme parsing error: <data>:1:34: Expected ')' in color definition
 
-(firefox:24673): Gtk-WARNING **: 19:37:22.514: Theme parsing error: <data>:1:77: Expected ')' in color definition
-1543343843486	Marionette	INFO	Listening on port 34385
-1543343843535	Marionette	WARN	TLS certificate errors will be ignored for this session
-1543343846512	Marionette	INFO	Stopped listening on port 34385
-[Parent 24673, Gecko_IOThread] WARNING: pipe error (76): Conexión reinicializada por la máquina remota: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+(firefox:6339): Gtk-WARNING **: 15:29:50.558: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543760991593	Marionette	INFO	Listening on port 37637
+1543760991657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543760995392	Marionette	INFO	Stopped listening on port 37637
+[Parent 6339, Gecko_IOThread] WARNING: pipe error (76): Conexión reinicializada por la máquina remota: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543761024290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nDxQbbsygXrQ"
+
+(firefox:6630): Gtk-WARNING **: 15:30:24.881: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6630): Gtk-WARNING **: 15:30:24.881: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543761025876	Marionette	INFO	Listening on port 43673
+1543761025907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543761029687	Marionette	INFO	Stopped listening on port 43673
+[Parent 6630, Gecko_IOThread] WARNING: pipe error (76): Conexión reinicializada por la máquina remota: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543761050202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.M0zWYTy8vXWF"
+
+(firefox:6914): Gtk-WARNING **: 15:30:50.773: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6914): Gtk-WARNING **: 15:30:50.773: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543761051741	Marionette	INFO	Listening on port 36157
+1543761051809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 6914, Gecko_IOThread] WARNING: pipe error (76): Conexión reinicializada por la máquina remota: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 6914, Gecko_IOThread] WARNING: pipe error (79): Conexión reinicializada por la máquina remota: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543761064488	Marionette	INFO	Stopped listening on port 36157
+1543764025658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cfR5WY0Vydzw"
+
+(firefox:11147): Gtk-WARNING **: 16:20:26.234: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11147): Gtk-WARNING **: 16:20:26.234: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543764027221	Marionette	INFO	Listening on port 41897
+1543764027266	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11147, Gecko_IOThread] WARNING: pipe error (123): Conexión reinicializada por la máquina remota: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 11147, Gecko_IOThread] WARNING: pipe error (79): Conexión reinicializada por la máquina remota: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 11147, Gecko_IOThread] WARNING: pipe error (76): Conexión reinicializada por la máquina remota: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543764068457	Marionette	INFO	Stopped listening on port 41897
+1543764069279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GFXb80NK8uBL"
+
+(firefox:11513): Gtk-WARNING **: 16:21:09.877: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11513): Gtk-WARNING **: 16:21:09.877: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543764070964	Marionette	INFO	Listening on port 32859
+1543764071000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543764130409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.D8o1ndP65JCH"
+
+(firefox:11860): Gtk-WARNING **: 16:22:11.000: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11860): Gtk-WARNING **: 16:22:11.000: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543764131992	Marionette	INFO	Listening on port 33529
+1543764132015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543764148934	Marionette	INFO	Stopped listening on port 33529
+1543764150754	Marionette	INFO	Stopped listening on port 32859
+1543764168336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.szPG1YIi3rvd"
+
+(firefox:12274): Gtk-WARNING **: 16:22:48.921: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12274): Gtk-WARNING **: 16:22:48.921: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543764169896	Marionette	INFO	Listening on port 44537
+1543764169943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543764172558	Marionette	INFO	Stopped listening on port 44537

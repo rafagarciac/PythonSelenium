@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import selenium.webdriver as webdriver
 import selenium.webdriver.support.ui as ui
 from selenium.webdriver.common.keys import Keys
@@ -7,7 +10,7 @@ browser = webdriver.Firefox()
 browser.get('https://www.google.com?q=python#q=python')
 first_result = ui.WebDriverWait(browser, 15).until(lambda browser: browser.find_element_by_class_name('rc'))
 first_link = first_result.find_element_by_tag_name('a')
-
+import pdb; pdb.set_trace()
 # Save the window opener (current window, do not mistaken with tab... not the same)
 main_window = browser.current_window_handle
 
