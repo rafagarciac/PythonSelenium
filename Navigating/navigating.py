@@ -137,7 +137,8 @@ def main():
         print("Scrolling...")
         scroll_down_as_human(driver, 3000)
         print("Stop Scrolling")
-        print(" F I N I S H !")
+        print(" Test Passed!")
+        # print(" F I N I S H !")
 
     except NoSuchElementException as e:
         print("NoSuchElementException Exception ! ")
